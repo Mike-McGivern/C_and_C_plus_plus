@@ -1,0 +1,32 @@
+﻿  STRPrtREFACTOR.cpp
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(26,29): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'char *[3]' to 'const char *'
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(26,36):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16):
+  see declaration of 'strlen'
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(26,29):
+  while trying to match the argument list '(char *[3])'
+  
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(26,5): error C2660: 'DisplayStrings': function does not take 2 arguments
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\Header1.h(6,6):
+  see declaration of 'DisplayStrings'
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(26,5):
+  while trying to match the argument list '(char *[3], size_t)'
+  
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(36,23): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'char *[3]' to 'const char *'
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(36,30):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16):
+  see declaration of 'strlen'
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(36,23):
+  while trying to match the argument list '(char *[3])'
+  
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(39,42): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'char *[3]' to 'const char *'
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(39,49):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16):
+  see declaration of 'strlen'
+  C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\STRPrtREFACTOR.cpp(39,42):
+  while trying to match the argument list '(char *[3])'
+  

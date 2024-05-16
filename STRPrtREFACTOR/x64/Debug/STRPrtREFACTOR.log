@@ -1,0 +1,7 @@
+﻿STRPrtREFACTOR.obj : error LNK2019: unresolved external symbol "void __cdecl Sort(char *)" (?Sort@@YAXPEAD@Z) referenced in function main
+STRPrtREFACTOR.obj : error LNK2019: unresolved external symbol "void __cdecl getInput(char *)" (?getInput@@YAXPEAD@Z) referenced in function main
+STRPrtREFACTOR.obj : error LNK2019: unresolved external symbol "void __cdecl Search(char * const,char const *)" (?Search@@YAXQEADPEBD@Z) referenced in function main
+STRPrtREFACTOR.obj : error LNK2019: unresolved external symbol "void __cdecl DisplayStrings(char * const,int)" (?DisplayStrings@@YAXQEADH@Z) referenced in function main
+STRPrtREFACTOR.obj : error LNK2019: unresolved external symbol "void __cdecl ShowLens(char * const,int)" (?ShowLens@@YAXQEADH@Z) referenced in function main
+STRPrtREFACTOR.obj : error LNK2019: unresolved external symbol "int __cdecl alphaChars(char * const,int)" (?alphaChars@@YAHQEADH@Z) referenced in function main
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\STRPrtREFACTOR\x64\Debug\STRPrtREFACTOR.exe : fatal error LNK1120: 6 unresolved externals
