@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(68,19): error C3861: 'len': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(69,19): error C3861: 'len': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(70,19): error C3861: 'len': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(110,5): error C3861: 'displayStrings': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(111,5): error C3861: 'displayString': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(112,5): error C3861: 'displayString': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(119,5): error C3861: 'Search': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(120,5): error C3861: 'Search': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(121,5): error C3861: 'Search': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(122,5): error C3861: 'Sort': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(123,5): error C3861: 'Sort': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(124,5): error C3861: 'Sort': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(125,5): error C3861: 'displayStrings': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(126,5): error C3861: 'displayStrings': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(127,5): error C3861: 'displayStrings': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(128,5): error C3861: 'ShowLens': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(129,5): error C3861: 'ShowLens': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(130,5): error C3861: 'ShowLens': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(131,23): error C3861: 'alphaChars': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(131,51): error C3861: 'alphaChars': identifier not found
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication1\ConsoleApplication1.cpp(131,79): error C3861: 'alphaChars': identifier not found

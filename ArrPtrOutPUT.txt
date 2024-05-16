@@ -1,0 +1,42 @@
+7
+99
+22
+33
+9
+-9
+1
+22
+7
+99
+22
+33
+7
+-515
+-515
+-8739
+7
+99
+-515
+-515
+7
+33
+22
+99
+
+33
+7
+22
+11
+10
+33
+20
+7
+
+1111
+3333
+7
+2222
+
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ArraysPtr\x64\Debug\ArraysPtr.exe (process 27240) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

@@ -1,0 +1,3 @@
+﻿  methods.cpp
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol "void __cdecl showResult(int)" (?showResult@@YAXH@Z) referenced in function main
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe : fatal error LNK1120: 1 unresolved externals

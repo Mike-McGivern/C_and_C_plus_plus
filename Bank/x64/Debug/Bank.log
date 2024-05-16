@@ -1,0 +1,10 @@
+﻿  Bank.cpp
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(66,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(93,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(106,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(137,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(140,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(142,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\Bank.cpp(145,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bank.vcxproj -> C:\Users\rimsh\OneDrive\Desktop\C++ shit\Bank\x64\Debug\Bank.exe
